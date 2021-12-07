@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.0rem;
+    background-color:rgb(252, 249, 249);
+  }
+
+  h2{
+    color: rgb(8, 150, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+h3{
+  color: rgb(8, 150, 150);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 15px;
+}
+  .navbar-light .navbar-brand {
+    color: white;
+  }
+  
+  .navbar {
+    background-color: white;
+    width: 100%;
+    padding: 0;
+  }
+  
+  .navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(8, 150, 150);
+    padding: 10px;
+    margin-left: 5%;
+  } 
+
+.body{
+    background-color: white;
+}
+.col-sm-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:40px;
+}
